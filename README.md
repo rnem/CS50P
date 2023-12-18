@@ -1,4 +1,4 @@
-<div style='clear:both'><h1>CS50's Programming with Python - Course Artifacts</h1></div>
+<h1>CS50's Programming with Python - Course Artifacts</h1>
 
 <table cellspacing="0" cellpadding="0" style="border-collapse: collapse; border: none;">
   <tr>
@@ -9,8 +9,8 @@
     </th>
   </tr>
 </table>
-
-### :warning: This repository houses my curated collection of exercises from this course, drawing inspiration from real-world programming challenges and they are for educational purposes only and not intended to be used as your own solutions. Cheating violates the [Academic Honesty Policy](https://cs50.harvard.edu/python/2022/honesty/) 
+  
+> ### :warning: This repository houses my curated collection of exercises from this course, drawing inspiration from real-world programming challenges and they are for educational purposes only and not intended to be used as your own solutions. Cheating violates the [Academic Honesty Policy](https://cs50.harvard.edu/python/2022/honesty/) 
 
 ## Table of Contents
 ### Functions, Variables
